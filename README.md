@@ -1,2 +1,0 @@
-# mysillyfirstwebsite
-My website!
